@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_about_author"
+        android:title="Об авторе" />
+    <item
+        android:id="@+id/action_user_instruction"
+        android:title="Инструкция пользователю" />
+    <item
+        android:id="@+id/action_about_app"
+        android:title="О программе" />
+    <item
+        android:id="@+id/action_avatar"
+        android:title="Смена аватарки" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Выйти" />
+</menu>
